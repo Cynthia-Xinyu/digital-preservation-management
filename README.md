@@ -14,4 +14,4 @@ Publish the repository's root directory from the `main` branch with GitHub Pages
 
 ## License
 
-MIT License (subject to repository owner's approval before publication).
+MIT License.
